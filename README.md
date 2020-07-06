@@ -12,3 +12,7 @@ python файл для создания графика
 python3 graph.py
 
 Для 3ей лабораторной Прописываем следующее
+sudo apt install maven
+mvn compile
+mvn exec:java -Dexec.mainClass="ThirdLab" 
+
